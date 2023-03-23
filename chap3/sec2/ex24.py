@@ -1,0 +1,5 @@
+import chap3.sec1.Calculator as cal # as = 약칭(줄여쓰기)
+print("더하기 : ", cal.add(40,50))
+print("빼기 : ", cal.sub(40,50))
+print("곱하기 : ", cal.multi(40,50))
+print("나누기 : ", cal.div(40,50))
